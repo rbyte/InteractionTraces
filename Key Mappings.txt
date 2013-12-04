@@ -1,0 +1,8 @@
+
+q or escape: quit
+s: screenshot
+v: start/stop screen video capture
+k: save logs
+l: load logs
+c: clear logs
+d: remove 50 of the oldest traces in log (increases performance)
